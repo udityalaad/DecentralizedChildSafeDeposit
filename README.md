@@ -64,7 +64,7 @@ https://github.com/othneildrew/Best-README-Template -->
 ## Getting Started
   #### Prerequisites
   * Solidity
-  * Ethereum LightWeight node
+  * Ethereum Lightweight node
   * NodeJS
   * Dependencies (Configured in each application)
   * IDE - Remix (Preferred)
@@ -76,6 +76,7 @@ https://github.com/othneildrew/Best-README-Template -->
   * Go to contracts & compile the required contract
   * Go to deploy section
   * Test with Virtual Machine & test accounts in VM
+  * Connect ethereum wallet accounts to remix *(advised to use a separate wallet with small amount of ether)*
   * Deploy to Ethereum mainnet and test
   * Invite others to interact with the deployed contract (directly/indirectly)
 
@@ -109,4 +110,5 @@ https://github.com/othneildrew/Best-README-Template -->
   * [Open Source Stack, Openzeppelin](https://www.openzeppelin.com/open-source-stack)
   * [Remix Resources](https://remix-project.org/?lang=en)
   * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
+  * [Digital Smart Contract Wallpaper, Wallpapers.com](https://wallpapers.com/wallpapers/digital-smart-contract-kkctld1rqfd0gikw.html)
   <p align="right">(<a href="#readme-top">back to top</a>)</p>

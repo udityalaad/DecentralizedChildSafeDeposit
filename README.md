@@ -71,14 +71,14 @@ https://github.com/othneildrew/Best-README-Template -->
   * Minimum - 8GB RAM, Intel i5 CPU (or Equivalent)
 
   #### Setup & Use
-  * Zip the repo
-  * Go to Remix IDE & import the zip into a new workspace
-  * Go to contracts & compile the required contract
-  * Go to deploy section
-  * Test with Virtual Machine & test accounts in VM
-  * Connect ethereum wallet accounts to remix *(advised to use a separate wallet with small amount of ether)*
-  * Deploy to Ethereum mainnet and test
-  * Invite others to interact with the deployed contract (directly/indirectly)
+  1. Zip the repo
+  2. Go to Remix IDE & import the zip into a new workspace
+  3. Go to contracts & compile the required contract
+  4. Go to deploy section
+  5. Test with Virtual Machine & test accounts in VM
+  6. Connect ethereum wallet accounts to remix *(advised to use a separate wallet with small amount of ether)*
+  7. Deploy to Ethereum mainnet and test
+  8. Invite others to interact with the deployed contract (directly/indirectly)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -52,7 +52,7 @@ https://github.com/othneildrew/Best-README-Template -->
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
-  &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Solidity.png" alt="Solidity_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/nodejs.png" alt="NodeJS_Logo" width="75"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Ethereum.png" alt="Ethereum_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Remix.png" alt="Remix_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/js.JPG" alt="JavaScript_Logo" width="62">
+  &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Solidity.png" alt="Solidity_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/nodejs.png" alt="NodeJS_Logo" width="75"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Ethereum.png" alt="Ethereum_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Remix.png" alt="Remix_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/js.png" alt="JavaScript_Logo" width="62">
 
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Solidity </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> NodeJS </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Ethereum </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Remix </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> JavaScript </i></b>
 
@@ -99,7 +99,7 @@ https://github.com/othneildrew/Best-README-Template -->
   
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; udityalaad123@gmail.com
 
-  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/DecentralizedChildSafeDeposit](https://github.com/udityalaad/TravelGenius)
+  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/DecentralizedChildSafeDeposit](https://github.com/udityalaad/DecentralizedChildSafeDeposit)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

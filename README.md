@@ -42,19 +42,19 @@ https://github.com/othneildrew/Best-README-Template -->
   #### Rules of the system
   1. Parent(s) make periodic fund deposits
   2. Child can withdraw funds after a specified (future) eligibility timestamp
-      - Else - Parent(s) can withdraw funds (atleast 1 year post child's eligibility)
-      - Else - Observer(s) can withdraw funds (atleast 1 year post parents' eligibility)
+      - *Else* - Parent(s) can withdraw funds (atleast 1 year post child's eligibility)
+      - *Else* - Observer(s) can withdraw funds (atleast 1 year post parents' eligibility)
   3. Emergency Withdrawals (with daily limits)
-      - Child - Before eligibility, can withdraw upto the max. daily limit (set by the observers)
-      - Parent(s) - Before eligibility, can withdraw upto the max daily limit (set by child/observers)
-      - Observer(s) - Not allowed
+      - *Child* - Before eligibility, can withdraw upto the max. daily limit (set by the observers)
+      - *Parent(s)* - Before eligibility, can withdraw upto the max daily limit (set by child/observers)
+      - *Observer(s)* - Not allowed
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
-  &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Solidity.png" alt="Solidity_Logo" width="100"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/nodejs.png" alt="NodeJS_Logo" width="68"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/ethereum.png" alt="Ethereum_Logo" width="68"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/remix.png" alt="Remix_Logo" width="68"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/JavaScript.JPG" alt="JavaScript_Logo" width="67">
+  &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Solidity.png" alt="Solidity_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/nodejs.png" alt="NodeJS_Logo" width="75"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Ethereum.png" alt="Ethereum_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Remix.png" alt="Remix_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/js.JPG" alt="JavaScript_Logo" width="62">
 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Solidity </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> NodeJS </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Ethereum </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Remix </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> JavaScript </i></b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Solidity </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> NodeJS </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Ethereum </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Remix </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> JavaScript </i></b>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

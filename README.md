@@ -43,10 +43,10 @@ https://github.com/othneildrew/Best-README-Template -->
   1. Parent(s) make periodic fund deposits
   2. Child can withdraw funds after a specified (future) eligibility timestamp
       - *Else* - Parent(s) can withdraw funds (atleast 1 year post child's eligibility)
-      - *Else* - Observer(s) can withdraw funds (atleast 1 year post parents' eligibility)
+      - *Else* - Observer(s) can withdraw funds (atleast 2 year post parents' eligibility)
   3. Emergency Withdrawals (with daily limits)
-      - *Child* - Before eligibility, can withdraw upto the max. daily limit (set by the observers)
-      - *Parent(s)* - Before eligibility, can withdraw upto the max daily limit (set by child/observers)
+      - *Child* - Before eligibility, can withdraw upto the maximum daily limit (set by the observers)
+      - *Parent(s)* - Before eligibility, can withdraw upto the maximum daily limit (set by child/observers)
       - *Observer(s)* - Not allowed
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,7 +106,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-  * [Openzeppelin Open Source Stack](https://www.openzeppelin.com/open-source-stack)
+  * [Open Source Stack, Openzeppelin](https://www.openzeppelin.com/open-source-stack)
   * [Remix Resources](https://remix-project.org/?lang=en)
   * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
